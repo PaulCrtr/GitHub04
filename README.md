@@ -1,3 +1,4 @@
+LOCAL
 # GitHub04
 quete
 
